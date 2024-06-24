@@ -1,7 +1,7 @@
 # quantum_walk_study
 Studying Quantum Walk with Perplexity, Claude &amp; Qiskit
 
-Update: 6/252024: I made a sample of Qiskit using quantum walk to simulate movement of crawler in a graph of websites.
+Update: 6/252024: I made a sample of code using Qiskit implementing quantum walk to simulate a movement of crawler in a graph of websites.
 
 Author: Tsubasa Kato - Inspire Search Corporation
 
