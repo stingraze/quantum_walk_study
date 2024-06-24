@@ -1,3 +1,5 @@
+#(C)Tsubasa Kato - 2024/6/25 8:03AM JST - Inspire Search Corporation - https://www.inspiresearch.io/en
+#Created with the help of Perplexity AI, Claude. Tested to work on Qiskit 1.1.0. 
 import numpy as np
 from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
 from qiskit_aer import AerSimulator
